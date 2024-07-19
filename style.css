@@ -1,0 +1,102 @@
+.ala{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -50px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 5px 1px;
+}
+.ala img{
+    margin-left: 90%;
+}
+section{
+    width: 500px;
+    height: 570px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px ;
+    margin: auto;
+}
+section{
+    position: absolute;
+    margin-left: 470px;
+}
+.image{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.iml{
+    display: flex;
+    margin-left: 330px;
+}
+.iml a{
+    text-decoration: none;
+     color: #F0400F;
+     margin-top: -30px;
+}
+.iml img{
+    margin-top: -35px;
+}
+.h1 h1{
+    color:#0E0D5D;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+.btn{
+    width: 320px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: grey;
+    margin-left: 100px;
+}
+.btn1{
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: hsl(0, 1%, 77%);
+    
+}
+.btn2{
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    position: absolute;
+    background-color: rgb(194, 194, 194);
+}
+
+.fkfl input{
+    border-radius: 30px;
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.dic input{
+    border-radius: 30px;
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+footer button{
+    background: #F69E86;
+    margin-top: 70px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+footer{
+    display: flex;
+    
+    justify-content: space-around;
+}
+footer a{
+    margin-left: 170px;
+    text-decoration: none;
+    color: grey;
+}
+
